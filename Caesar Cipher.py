@@ -1,26 +1,4 @@
-'''
-Jocelyn Ao
-jao1@binghamton.edu
-Lab Section B57
-Jia Yang
-Assignment 10
-'''
 
-'''
-This program, given a file, will decrypt or encrypt the file based on
-the rotation key that the person wants. The encoded/decoded file will
-then be written into a new file
-
-Output to file:
-In the new file, the encoded or decoded file is written in there.
-
-Tasks allocated to functions:
-convertRotationKey()
-keepInBounds()
-processMessage()
-makeName()
-writeToFile()
-'''
 
 # Imports --------------------------------------------------------
 import string
